@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.uppernav{
+    background: rgb(7, 7, 115);
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.upperpara{
+    color: white;
+    padding-top: 8px;
+}
+
+.nav-btn{
+    background: rgb(7, 7, 115);
+    color: white;
+    border-radius: 17px;
+    width: 100px;
+} 
+.hero{
+    height: 500px;
+}
+.heroimg{
+    height: 400px;
+}
+.row{
+    display: flex;
+}
+
+.text-container {
+    position: relative;
+    color:  rgb(7, 7, 115);
+    font-size: 16px;
+    padding-left: 80px;
+    left: 49%;
+    transform: translate(-50%, -300%);
+}
