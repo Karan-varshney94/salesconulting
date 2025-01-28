@@ -26,6 +26,7 @@
 }
 .heroimg{
     height: 400px;
+    width:100%
 }
 .row{
     display: flex;
@@ -38,4 +39,12 @@
     padding-left: 80px;
     left: 49%;
     transform: translate(-50%, -300%);
+}
+
+.casestudy{
+    display: flex;
+    color: white;
+}
+.case2{
+    color: black;
 }
