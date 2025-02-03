@@ -53,3 +53,10 @@
 .casebackground{
     background: rgb(7, 7, 115);
 }
+.symbol{
+    height: 100px;
+}
+.secondbg{
+    background-color: #e8e8e8;
+    height: 510px;
+}
